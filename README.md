@@ -66,7 +66,9 @@
 
 ###
 
-<a href="https://www.buymeacoffee.com/devcaique"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/devcaique"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+</div>
 
 <!---
 devCaiquedePaula/devCaiquedePaula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
