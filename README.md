@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m currently working on not creating so many bugs 😅.<br>- 📚 I'm currently learning data bases<br>- ⚡ In my free time I code<br>- ⚡ Fun fact: I keep night shift swithed on at all times and i 💚RGB</p>
+<p align="left">I'm from BRAZIL 💚💚 <br><br>- 🔭 I’m currently working on not creating so many bugs 😅.<br>- 📚 I'm currently learning data bases<br>- ⚡ In my free time I code<br>- ⚡ Fun fact: I keep night shift swithed on at all times and i 💚RGB</p>
 
 ###
 
