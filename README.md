@@ -19,15 +19,15 @@
 
 ###
 
-<h1 align="center">hey there i'm Caique de Paula and i'm a Frontend Developer👋</h1>
+<h1 align="center">hey there i'm Caique de Paula and i'm a FullStack Developer👋</h1>
 
 ###
 
-<h3 align="center">👩‍💻  About Me :<br><br>I'm a JavaScript developer who has turned my years of experience in medicine school into a new and passionate career in technology. As an ADS (Applied Data Science) student and a programmer, I have the opportunity to not only develop apps and websites but also to transform my life by immersing myself in the world of technology. Each passing day allows me to delve deeper into this exciting field, surpassing my own expectations and acquiring more knowledge than I could have imagined.<br><br>My specialization lies in building front-end websites that handle the heavy lifting for users. I thrive on designing systems that are not only visually appealing but also lightweight and powerful. I understand the importance of creating distributed systems that can synchronize seamlessly, offering a smooth and efficient user experience. The beauty of the design should never compromise the effectiveness of the system.<br><br>By constantly expanding my skill set and staying up-to-date with the latest trends, I continue to deepen my knowledge as a JavaScript developer. I embrace the ever-evolving nature of technology, always eager to explore new technologies, frameworks, and tools that can enhance my abilities.</h3>
+<h3 align="center">👩‍💻  About Me :<br><br>I'm a ABAP-SAP & JavaScript developer who has turned my years of experience in medicine school into a new and passionate career in technology. As an ASD (Analysis and Systems Development) student and a programmer, I have the opportunity to not only develop apps and websites but also to transform my life by immersing myself in the world of technology. Each passing day allows me to delve deeper into this exciting field, surpassing my own expectations and acquiring more knowledge than I could have imagined.<br><br>My specialization is in building mobile and desktop applications along with a responsive interface, in addition to data manipulation in the back-end. I thrive on designing systems that are not only visually appealing but also lightweight and powerful. I understand the importance of creating distributed systems that can synchronize seamlessly, offering a smooth and efficient user experience. The beauty of the design should never compromise the effectiveness of the system.<br><br>By constantly expanding my skill set and staying up-to-date with the latest trends, I continue to deepen my knowledge as a JavaScript developer. I embrace the ever-evolving nature of technology, always eager to explore new technologies, frameworks, and tools that can enhance my abilities.</h3>
 
 ###
 
-<p align="left">I'm from BRAZIL 💚💚 <br><br>- 🔭 I’m currently working on not creating so many bugs 😅.<br>- 📚 I'm currently learning data bases<br>- ⚡ In my free time I code<br>- ⚡ Fun fact: I keep night shift swithed on at all times and i 💚RGB</p>
+<p align="left">I'm from BRAZIL 💚💚 <br><br>- 🔭 I’m currently working on not creating so many bugs 😅.<br>- 📚 I'm currently learning data bases<br>- ⚡ In my free time I code<br>- ⚡ Fun fact: I make my code bug at least 10 times a day</p>
 
 ###
 
