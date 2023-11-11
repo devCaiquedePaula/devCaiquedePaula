@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="center">hey there i'm Caique de Paula and i'm a FullStack Developer👋</h1>
+<h1 align="center">Hey there i'm Caique de Paula and i'm a FullStack Developer👋</h1>
 
 ###
 
