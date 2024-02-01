@@ -100,6 +100,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/devCaiquedePaula/devCaiquedePaula/output/snake.svg" alt="Snake animation" />
+
 
 ###
