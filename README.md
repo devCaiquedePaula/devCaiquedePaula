@@ -16,7 +16,8 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on  my Github Page<br><br>🌱 I’m currently learning Hyperledger and Kubernetes<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br>⚡ Fun fact: I use tabs over spaces</p>
+<p align="left">🔭 I’m currently working on  my Github Page<br><br>🌱 I’m currently learning Hyperledger and Kubernetes<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br>⚡ Fun fact: I use tabs over spaces 🧠 Curiosity, a passion for learning, and the drive for self-improvement
+🌱 Self-motivated, capable of independent work and thriving in a team</p>
 
 ###
 
