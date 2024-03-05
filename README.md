@@ -6,7 +6,41 @@
 
 ###
 
-<h3 align="left">About me: <br><br>Glad to see you here!<br><br>I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.<br><br>I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.</h3>
+# Welcome to My Coding Universe! 🚀
+
+## About Me
+
+Greetings! I'm deeply passionate about the world of programming, and my FullStack journey of over 2 years has been a dedicated exploration of the intricacies of software development. I take pride in my commitment to achieving excellence in building seamless interfaces and strategically manipulating data on the back-end.
+
+## Technology Stack
+
+- **Frontend:** JavaScript, ReactJs, TypeScript, Angular
+- **Backend:** NodeJs, PHP, C#
+- **Databases:** MongoDB, MySQL, Postgre
+- **Versatility:** Python, Java
+
+## Expertise
+
+I specialize in crafting holistic solutions that transcend immediate needs, aligning seamlessly with the long-term goals of businesses. My key strengths include:
+
+- Building robust applications
+- Meticulous API testing
+- Website optimization for SEO
+
+## Development Practices
+
+I am well-versed in implementing efficient Continuous Integration/Continuous Deployment (CI/CD) practices, with a strong command of agile methodologies, particularly in Scrum.
+
+## Docker Magic ✨
+
+My Docker skills come into play to streamline the development and deployment of applications, ensuring a seamless and efficient workflow.
+
+## Communication Matters
+
+Effective team communication is at the core of my priorities, ensuring a collaborative and harmonious development environment.
+
+Feel free to explore my repositories and join me in this exciting coding adventure! Let's build something amazing together! 🌐🔧
+
 
 ###
 
