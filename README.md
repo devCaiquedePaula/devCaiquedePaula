@@ -12,13 +12,6 @@
 
 Greetings! I'm deeply passionate about the world of programming, and my FullStack journey of over 2 years has been a dedicated exploration of the intricacies of software development. I take pride in my commitment to achieving excellence in building seamless interfaces and strategically manipulating data on the back-end.
 
-## Technology Stack
-
-- **Frontend:** JavaScript, ReactJs, TypeScript, Angular
-- **Backend:** NodeJs, PHP, C#
-- **Databases:** MongoDB, MySQL, Postgre
-- **Versatility:** Python, Java
-
 ## Expertise
 
 I specialize in crafting holistic solutions that transcend immediate needs, aligning seamlessly with the long-term goals of businesses. My key strengths include:
@@ -50,7 +43,7 @@ Feel free to explore my repositories and join me in this exciting coding adventu
 
 ###
 
-<p align="left">🔭 I’m currently working on  my Github Page<br><br>🌱 I’m currently learning Hyperledger and Kubernetes<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br>⚡ Fun fact: I use tabs over spaces<br><br> 🧠 Curiosity, a passion for learning, and the drive for self-improvement<br><br>
+<p align="left">🔭 I’m currently working on my personal project with Ruby & JS<br><br>🌱 I’m currently learning Ruby on Rails<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br>⚡ Fun fact: I use tabs over spaces<br><br> 🧠 Curiosity, a passion for learning, and the drive for self-improvement<br><br>
 🌱 Self-motivated, capable of independent work and thriving in a team</p>
 
 ###
