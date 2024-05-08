@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Caique and I'm a Fullstack Developer, from Brazil.</p>
+<p align="left">My name is Caique and I'm a Mid-level Software Engineer, from Brazil.</p>
 
 ###
 
@@ -10,15 +10,31 @@
 
 ## About Me
 
-Greetings! I'm deeply passionate about the world of programming, and my FullStack journey of over 2 years has been a dedicated exploration of the intricacies of software development. I take pride in my commitment to achieving excellence in building seamless interfaces and strategically manipulating data on the back-end.
+📊 As an experienced Fullstack Software Engineer, with over 3 years of experience, my expertise spans JavaScript, React, Java, and Python. I stand out for creating innovative solutions, such as a robust authentication microservice in Python (Django), PostgreSQL, and Redis, significantly increasing operational efficiency. I reduced query response times by 40% and improved overall system efficiency by 25%. My goal is to continue enhancing my skills, especially in frontend technologies like React, to deliver even more impactful and efficient solutions.
+
+🔎 My journey in software engineering is marked by an insatiable passion for creating exceptional digital experiences. With a background in Computer Science and a specialization in Software Engineering and Object-Oriented Programming from the prestigious universities of Harvard and Helsinki, I aim to apply my expertise to develop innovative and impactful solutions.
+
+📖 My collaborative approach and adept communication skills have been instrumental in fostering productive team environments where innovation flourishes.
+
+💡 Committed to continuous learning, I stay updated on the latest industry trends and technologies through online courses, workshops, and conferences. Recently, I completed a certification in advanced React development, further enhancing my expertise in frontend technologies and design patterns.
 
 ## Expertise
 
 I specialize in crafting holistic solutions that transcend immediate needs, aligning seamlessly with the long-term goals of businesses. My key strengths include:
 
-- Building robust applications
-- Meticulous API testing
-- Website optimization for SEO
+• JavaScript; <br>
+• Python; <br>
+• Java; <br>
+• Node.JS; <br>
+• React.JS; <br>
+• Next.JS; <br>
+• Express; <br>
+• Redux;  <br>
+• TypeScript; <br>
+• MySQL; <br>
+• Postgre; <br>
+• MongoDB; <br>
+• TailwindCSS;  <br>
 
 ## Development Practices
 
@@ -30,7 +46,14 @@ My Docker skills come into play to streamline the development and deployment of 
 
 ## Communication Matters
 
-Effective team communication is at the core of my priorities, ensuring a collaborative and harmonious development environment.
+Effective team communication is at the core of my priorities, ensuring a collaborative and harmonious development environment. <br>
+
+Personal Qualities: <br>
+• Fast learner; <br>
+• Organized; <br>
+• Good in troubleshooting; <br>
+• Customer experience; <br>
+• Good to give and receive feedbacks; <br>
 
 Feel free to explore my repositories and join me in this exciting coding adventure! Let's build something amazing together! 🌐🔧
 
@@ -43,7 +66,7 @@ Feel free to explore my repositories and join me in this exciting coding adventu
 
 ###
 
-<p align="left">🔭 I’m currently working on my personal project with Ruby & JS<br><br>🌱 I’m currently learning Ruby on Rails<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br>⚡ Fun fact: I use tabs over spaces<br><br> 🧠 Curiosity, a passion for learning, and the drive for self-improvement<br><br>
+<p align="left">🔭 I’m currently working on my personal Micro-SaaS project <br><br>🌱 I’m currently learning Ruby on Rails<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br>⚡ Fun fact: I use tabs over spaces<br><br> 🧠 Curiosity, a passion for learning, and the drive for self-improvement<br><br>
 🌱 Self-motivated, capable of independent work and thriving in a team</p>
 
 ###
