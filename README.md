@@ -22,17 +22,16 @@
 
 I specialize in crafting holistic solutions that transcend immediate needs, aligning seamlessly with the long-term goals of businesses. My key strengths include:
 
-• JavaScript; <br>
-• Python; <br>
 • Java; <br>
-• Node.JS; <br>
+• Maven; <br>
+• Spring Boot; <br>
+• PostgreSQL; <br>
+• JavaScript; <br>
 • React.JS; <br>
 • Next.JS; <br>
-• Express; <br>
-• Redux;  <br>
 • TypeScript; <br>
+• Redis;  <br>
 • MySQL; <br>
-• Postgre; <br>
 • MongoDB; <br>
 • TailwindCSS;  <br>
 
