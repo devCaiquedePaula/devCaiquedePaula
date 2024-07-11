@@ -10,13 +10,13 @@
 
 ## About Me
 
-📊 As an experienced Fullstack Software Engineer, with over 3 years of experience, my expertise spans JavaScript, React, Java, and Python. I stand out for creating innovative solutions, such as a robust authentication microservice in Python (Django), PostgreSQL, and Redis, significantly increasing operational efficiency. I reduced query response times by 40% and improved overall system efficiency by 25%. My goal is to continue enhancing my skills, especially in frontend technologies like React, to deliver even more impactful and efficient solutions.
+📊 As an experienced Fullstack Software Engineer, with over 3 years of experience, my expertise spans Java, React, TypeScript, and JavaScript. I stand out for creating innovative solutions, such as a robust authentication microservice in Java using technologies like Spring Boot, Hibernate, PostgreSQL, and Redis, significantly improving operational efficiency. I reduced query response times by 40% and improved overall system efficiency by 25%. Additionally, I have developed scalable and high-performance systems in Java, applying object-oriented design principles and robust architecture patterns.
 
-🔎 My journey in software engineering is marked by an insatiable passion for creating exceptional digital experiences. With a background in Computer Science and a specialization in Software Engineering and Object-Oriented Programming from the prestigious universities of Harvard and Helsinki, I aim to apply my expertise to develop innovative and impactful solutions.
+🔎 My journey in software engineering is marked by an insatiable passion for creating exceptional digital experiences. With a background in Computer Science and specialization in Software Engineering and Object-Oriented Programming from prestigious universities like Harvard and Helsinki, I aim to apply my expertise to develop innovative and impactful solutions.
 
-📖 My collaborative approach and adept communication skills have been instrumental in fostering productive team environments where innovation flourishes.
+📖 My collaborative approach and advanced communication skills have been instrumental in fostering productive team environments where innovation thrives.
 
-💡 Committed to continuous learning, I stay updated on the latest industry trends and technologies through online courses, workshops, and conferences. Recently, I completed a certification in advanced React development, further enhancing my expertise in frontend technologies and design patterns.
+💡 Committed to continuous learning, I stay updated on the latest industry trends and technologies through online courses, workshops, and conferences. Recently, I completed a certification in advanced Java development, further enhancing my expertise in backend technologies and design patterns.
 
 ## Expertise
 
