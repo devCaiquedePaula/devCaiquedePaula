@@ -10,7 +10,7 @@
 
 ## About Me
 
-📊 As an experienced Fullstack Software Engineer, with over 3 years of experience, my expertise spans Java, React, TypeScript, and JavaScript. I stand out for creating innovative solutions, such as a robust authentication microservice in Java using technologies like Spring Boot, Hibernate, PostgreSQL, and Redis, significantly improving operational efficiency. I reduced query response times by 40% and improved overall system efficiency by 25%. Additionally, I have developed scalable and high-performance systems in Java, applying object-oriented design principles and robust architecture patterns.
+📊 As an experienced Fullstack Software Engineer, with over 3 years of experience, my expertise spans Java, Go, Spring Boot, Angular and more. I stand out for creating innovative solutions, such as a robust authentication microservice in Java using technologies like Spring Boot, Hibernate, PostgreSQL, and Redis, significantly improving operational efficiency. I reduced query response times by 40% and improved overall system efficiency by 25%. Additionally, I have developed scalable and high-performance systems in Java, applying object-oriented design principles and robust architecture patterns.
 
 🔎 My journey in software engineering is marked by an insatiable passion for creating exceptional digital experiences. With a background in Computer Science and specialization in Software Engineering and Object-Oriented Programming from prestigious universities like Harvard and Helsinki, I aim to apply my expertise to develop innovative and impactful solutions.
 
@@ -23,17 +23,14 @@
 I specialize in crafting holistic solutions that transcend immediate needs, aligning seamlessly with the long-term goals of businesses. My key strengths include:
 
 • Java; <br>
-• Maven; <br>
+• Go <br>
 • Spring Boot; <br>
-• PostgreSQL; <br>
-• JavaScript; <br>
-• React.JS; <br>
-• Next.JS; <br>
-• TypeScript; <br>
-• Redis;  <br>
+• AWS; <br>
+• Angular; <br>
 • MySQL; <br>
+• PostgreSQL; <br>
 • MongoDB; <br>
-• TailwindCSS;  <br>
+• Docker; <br>
 
 ## Development Practices
 
@@ -65,7 +62,7 @@ Feel free to explore my repositories and join me in this exciting coding adventu
 
 ###
 
-<p align="left">🔭 I’m currently working on my personal Micro-SaaS project <br><br>🌱 I’m currently learning Ruby on Rails<br><br>❓ Ask me about anything related to JAVA stack and related technologies<br><br>⚡ Fun fact: I use tabs over spaces<br><br> 🧠 Curiosity, a passion for learning, and the drive for self-improvement<br><br>
+<p align="left">🔭 I’m currently working on my personal Micro-SaaS project <br><br>🌱 I’m currently learning Java Expertise<br><br>❓ Ask me about anything related to JAVA stack and related technologies<br><br>⚡ Fun fact: I use tabs over spaces<br><br> 🧠 Curiosity, a passion for learning, and the drive for self-improvement<br><br>
 🌱 Self-motivated, capable of independent work and thriving in a team</p>
 
 ###
