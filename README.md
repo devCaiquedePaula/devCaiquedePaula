@@ -10,27 +10,33 @@
 
 ## About Me
 
-📊 As an experienced Fullstack Software Engineer, with over 3 years of experience, my expertise spans Java, Go, Spring Boot, Angular and more. I stand out for creating innovative solutions, such as a robust authentication microservice in Java using technologies like Spring Boot, Hibernate, PostgreSQL, and Redis, significantly improving operational efficiency. I reduced query response times by 40% and improved overall system efficiency by 25%. Additionally, I have developed scalable and high-performance systems in Java, applying object-oriented design principles and robust architecture patterns.
+📊 As a Software Engineer specialized in Back-End, with approximately 3 years of experience, I work with established technologies such as Java, Spring Boot, Hibernate, relational and non-relational DBMS (like MongoDB), and Docker.
+I stand out for creating innovative solutions, such as a robust authentication microservice that optimized inter-module communication and enhanced the security and efficiency of operations. Using technologies like Java, Spring Boot, Hibernate, MongoDB, and Docker, this project achieved a 30% reduction in response time and a 25% increase in transaction reliability. In parallel, I am currently deepening my expertise in C#, studying this technology to further expand my skills in developing innovative solutions.
 
-🔎 My journey in software engineering is marked by an insatiable passion for creating exceptional digital experiences. With a background in Computer Science and specialization in Software Engineering and Object-Oriented Programming from prestigious universities like Harvard and Helsinki, I aim to apply my expertise to develop innovative and impactful solutions.
+Additionally, I participated in the development of a content management platform that integrated real-time data processing services. By applying tools such as Apache Kafka for data streaming, Spark for processing large volumes of information, and Node.js for creating dynamic APIs, the system enabled highly accurate predictive analytics, reducing the time for strategic decision-making by 40%.
 
-📖 My collaborative approach and advanced communication skills have been instrumental in fostering productive team environments where innovation thrives.
+🔎 My journey is marked by a passion for technology and an incessant desire to evolve and seek new knowledge.
+I am currently pursuing a degree in Systems Analysis and Development, which has broadened my perspective and expertise in the technology field. Complementing this education, I completed specializations at Harvard University and the University of Helsinki, where I deepened my understanding of agile methodologies, software design, and system architecture.
 
-💡 Committed to continuous learning, I stay updated on the latest industry trends and technologies through online courses, workshops, and conferences. Recently, I completed a certification in advanced Java development, further enhancing my expertise in backend technologies and design patterns.
+📖 I believe in the power of collaboration and effective communication as fundamental pillars for innovation.
+I work seamlessly within multidisciplinary teams, always focused on uniting efforts to create solutions that not only address technical demands but also drive digital transformation and enhance business competitiveness.
+
+💡 Committed to continuous learning, I stay current through courses, workshops, and conferences.
+My goal is to grow constantly, embracing challenges that drive innovation and allow me to apply creative solutions in software development. I strive to enhance my skills and contribute to impactful digital experiences.
 
 ## Expertise
 
 I specialize in crafting holistic solutions that transcend immediate needs, aligning seamlessly with the long-term goals of businesses. My key strengths include:
 
-• Java; <br>
-• Go <br>
-• Spring Boot; <br>
-• AWS; <br>
-• Angular; <br>
-• MySQL; <br>
-• PostgreSQL; <br>
-• MongoDB; <br>
-• Docker; <br>
+• Java;
+• Maven;
+• DBMS’s
+• Spring Boot;
+• AWS;
+• JavaScript; 
+• Angular; 
+• Docker
+• DevOps
 
 ## Development Practices
 
