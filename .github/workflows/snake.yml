@@ -9,12 +9,12 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub Snake SVG
-        uses: Platane/snk@master
+      - uses: Platane/snk@v3
         with:
           github_user_name: devCaiquedePaula
-          svg_out_path: dist/pacman-contribution-graph.svg
-
+          outputs: |
+            ./dist/pacman-contribution-graph.svg?palette=github-dark
+            ./dist/pacman-contribution-graph-dark.svg?palette=github-dark
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
