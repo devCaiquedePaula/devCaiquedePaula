@@ -62,6 +62,7 @@ I’m passionate about clean code, robust architecture, message-driven systems, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="60" alt="tomcat logo" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo"  />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo" />
   <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="apachekafka logo" />
