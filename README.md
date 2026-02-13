@@ -29,8 +29,8 @@
   "role": "Backend Developer",
   "stack": [
     "Java",
+    "C++",
     "C#",
-    ".NET",
     "Spring Boot",
     "Hibernate",
     "RabbitMQ",
