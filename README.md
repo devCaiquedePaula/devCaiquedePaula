@@ -51,7 +51,7 @@
     "technologies_and_tools": [
       "Docker",
       "Kubernetes",
-      "AWS (SQS, EC2)",
+      "AWS",
       "RabbitMQ",
       "TIBCO EMS",
       "Redis",
