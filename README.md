@@ -21,59 +21,6 @@
 </div>
 
 ###
-
-```json
-{
-  "name": "Caique de Paula Nascimento",
-  "username": "devCaiquedePaula",
-  "role": "Backend Developer",
-  "location": "São Paulo, Brazil",
-  "linkedin": "in/caique-nascimento-643252238",
-  "stack": {
-    "languages": [
-      "Java",
-      "C++",
-      "C",
-      "SQL"
-    ],
-    "frameworks_and_libraries": [
-      "Spring Boot",
-      "Spring Batch",
-      "Hibernate (JPA)",
-      "JDBC",
-      "Jersey",
-      "Apache Camel",
-      "JUnit",
-      "Jackson",
-      "Mustache",
-      "Pega BPM"
-    ],
-    "technologies_and_tools": [
-      "Docker",
-      "Kubernetes",
-      "AWS",
-      "RabbitMQ",
-      "TIBCO EMS",
-      "Redis",
-      "PostgreSQL",
-      "MySQL",
-      "MongoDB",
-      "Git",
-      "GitHub Actions",
-      "CMake",
-      "Arduino"
-    ],
-    "concepts": [
-      "Microservices",
-      "REST APIs",
-      "CI/CD",
-      "Clean Code",
-      "Distributed Systems",
-      "Agile (Scrum/Kanban)"
-    ]
-  }
-}
-```
 ### 👨‍💻 About Me
 
 👨‍💻 Software Engineer with 3 years of solid experience in distributed systems and scalable microservices<br>
