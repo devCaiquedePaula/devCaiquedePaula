@@ -23,22 +23,20 @@
 ###
 ### 👨‍💻 About Me
 
-👨‍💻 Software Engineer with 3 years of solid experience in distributed systems and scalable microservices<br>
+👨‍💻 Software Engineer with +3 years of solid experience in distributed systems and scalable microservices<br>
 ☕ Domain expert in Java (Spring Boot) and building resilient architectures.<br>
 🚀 Proven track record of implementing high-performance solutions.<br>
 📩 Experienced in asynchronous messaging, containerization (Docker/Kubernetes), and AWS infrastructure.<br>
-⚙️ Currently deepening expertise in C/C++ and hardware architecture.<br>
-📟 Focusing on low-level system optimization and firmware integration.<br>
+⚙️ Currently deepening expertise in Camunda and BPMN & DMN.<br>
+📟 Focusing on integrations End2End.<br>
 🎯 Aiming for maximum resource efficiency in mission-critical applications.<br>
-🛠️ Bridging the gap between modern software engineering and hardware performance.<br>
+🛠️ Bridging the gap between modern software engineering and process orchestration.<br>
 🔍 Seeking opportunities that demand high performance, resource optimization, and complex system integration.<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="spring logo" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="csharp logo" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="60" alt="dot-net logo" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="mongodb logo" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
@@ -62,7 +60,7 @@
 
 ###
 
-<h3 align="center">📫 Open to collaborate on Java / C++ projects or anything exciting in back-end development. Feel free to reach out!</h3>
+<h3 align="center">📫 Open to collaborate on Java / Camunda projects or anything exciting in back-end development. Feel free to reach out!</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devCaiquedePaula&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
