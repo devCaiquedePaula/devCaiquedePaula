@@ -17,7 +17,8 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Back-End+Developer+%7C+Java+%2F+C%23+%2F+.NET;REST+APIs+%7C+Spring+Boot+%7C+RabbitMQ;Clean+Architecture+%7C+Always+Learning!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Java+%26+Spring+%2F+Camunda+%26+BPMN;REST+APIs+%26+Microservices;Apache+Kafka+%26+Always+having+fun" />
+  
 </div>
 
 ###
