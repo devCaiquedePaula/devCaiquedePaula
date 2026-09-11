@@ -1,70 +1,67 @@
-<h1 align="center">Hey there! 👋 How’s it going?</h1>
+```shell
+visitor@dev-caique:~$ system_info
 
-<h3 align="center"><i>"Clean code & strong coffee ☕💻"</i></h3>
+---------------------------------------------------
+Profile:    Caique de Paula Nascimento
+Role:       Backend Software Engineer
+Location:   São Paulo, Brazil
+Experience: 3 Years
+Focus:      Distributed Systems & Scalable Microservices
+Motto:      "Clean code & strong coffee ☕💻"
+---------------------------------------------------
 
-###
+visitor@dev-caique:~$ cat /var/www/portfolio/about.txt
+Domain expert in Java (Spring Boot) and building resilient architectures.
+Proven track record of implementing high-performance solutions.
+Aiming for maximum resource efficiency in mission-critical applications.
+Bridging the gap between modern software engineering and process orchestration.
 
-###
+visitor@dev-caique:~$ tree /opt/tech_stack/
+/opt/tech_stack/
+├── backend
+│   ├── Java
+│   ├── Spring Boot
+│   └── REST APIs
+├── orchestration
+│   ├── Camunda 8
+│   ├── BPMN
+│   └── DMN
+├── messaging
+│   └── Apache Kafka
+├── databases
+│   ├── PostgreSQL
+│   ├── MongoDB
+│   ├── Redis
+│   ├── Oracle
+│   └── MySQL
+├── infrastructure
+│   ├── AWS
+│   ├── Docker
+│   └── Kubernetes
+└── low_level
+    ├── C
+    ├── C++
+    └── Embedded Systems
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=devCaiquedePaula.devCaiquedePaula&" />
-</div>
+visitor@dev-caique:~$ cat current_goals.json
+{
+  "objective": "High performance & resource optimization",
+  "specialization": "Integrations End2End",
+  "interests": [
+    "Hardware Architecture",
+    "Formula 1",
+    "CS2"
+  ]
+}
 
-###
+visitor@dev-caique:~$ ping -c 3 devCaiquedePaula
+PING devCaiquedePaula (127.0.0.1) 56(84) bytes of data.
+64 bytes from devCaiquedePaula: icmp_seq=1 ttl=64 time=0.015 ms
+64 bytes from devCaiquedePaula: icmp_seq=2 ttl=64 time=0.012 ms
+64 bytes from devCaiquedePaula: icmp_seq=3 ttl=64 time=0.014 ms
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eHdkcjhzbTdvejN0eTNmb2dnOWxkOWZ3bDF4d2ZpODNxaWp0cHhqNSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif" />
-</div>
+--- devCaiquedePaula ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss
+📫 Status: Open to collaborate on Java / Camunda projects.
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Java+%26+Spring+%2F+Camunda+%26+BPMN;REST+APIs+%26+Microservices;Apache+Kafka+%26+Always+having+fun" />
-  
-</div>
-
-###
-### 👨‍💻 About Me
-
-👨‍💻 Software Engineer with +3 years of solid experience in distributed systems and scalable microservices<br>
-☕ Domain expert in Java (Spring Boot) and building resilient architectures.<br>
-🚀 Proven track record of implementing high-performance solutions.<br>
-📩 Experienced in asynchronous messaging, containerization (Docker/Kubernetes), and AWS infrastructure.<br>
-⚙️ Currently deepening expertise in Camunda and BPMN & DMN.<br>
-📟 Focusing on integrations End2End.<br>
-🎯 Aiming for maximum resource efficiency in mission-critical applications.<br>
-🛠️ Bridging the gap between modern software engineering and process orchestration.<br>
-🔍 Seeking opportunities that demand high performance, resource optimization, and complex system integration.<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
-  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="spring logo" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="mongodb logo" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo"  />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="apachekafka logo" />
-  <img src="https://skillicons.dev/icons?i=maven" height="60" alt="apachemaven logo" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo" />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devCaiquedePaula/devCaiquedePaula/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devCaiquedePaula/devCaiquedePaula/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devCaiquedePaula/devCaiquedePaula/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<h3 align="center">📫 Open to collaborate on Java / Camunda projects or anything exciting in back-end development. Feel free to reach out!</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devCaiquedePaula&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
-
-###
+visitor@dev-caique:~$ █
