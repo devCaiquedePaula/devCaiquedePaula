@@ -2,12 +2,12 @@
 visitor@dev-caique:~$ system_info
 
 ---------------------------------------------------
-Profile:    Caique de Paula Nascimento
-Role:       Backend Software Engineer
+Profile:    Caique de Paula a.k.a DevKiq
+Role:       Backend Software Engineer / software architect
 Location:   São Paulo, Brazil
-Experience: 3 Years
+Experience: 4 Years
 Focus:      Distributed Systems & Scalable Microservices
-Motto:      "Clean code & strong coffee ☕💻"
+Motto:      "Clean code & strong tea ☕💻"
 ---------------------------------------------------
 
 visitor@dev-caique:~$ cat /var/www/portfolio/about.txt
@@ -25,9 +25,12 @@ visitor@dev-caique:~$ tree /opt/tech_stack/
 ├── orchestration
 │   ├── Camunda 8
 │   ├── BPMN
-│   └── DMN
+│   ├── DMN
+│   └── TIBCO 
 ├── messaging
 │   └── Apache Kafka
+│   ├── Apache Camel
+│   └── EMS/JMS
 ├── databases
 │   ├── PostgreSQL
 │   ├── MongoDB
